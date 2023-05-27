@@ -1,4 +1,4 @@
-# Speech-Emotion-Recognition Using 2 diffrent CNN models with 2-D convolution 
+# Speech-Emotion-Recognition Using 2  CNN models with 2-D convolution 
 # Architecture
 
 # Model 1
