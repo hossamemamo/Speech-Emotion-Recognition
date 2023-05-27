@@ -8,7 +8,7 @@
 1. AlexNet laid the groundwork for enhancing feature maps by stacking CNN layers and expanding channels.
 2. Inception and GoogLeNet introduced the idea of parallelizing CNN layers to diversify the learned features.
 3. VGGNet demonstrated the effectiveness of using fixed-sized kernels that we use in each parallel network.
-image.png
+4. LeNet architecture inspired the sequence of operations: Convolutional layer, pooling layer, convolutional layer, pooling layer and a fully connected layer.
 
 # Results  Accuracy : 64.26 %
 ![](./Assets/ParaNetResults.jpg)
