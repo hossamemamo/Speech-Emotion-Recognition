@@ -25,3 +25,12 @@
 # Results  Accuracy : 66.23 %
 ![](./Assets/ParaNet%2BTransformersResult.jpg)
 
+# References so we don't get in trouble !
+
+1. Krizhevsky et al, 2017. ImageNet Classification with Deep Convolutional Neural Networks. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+2. LeCunn et al, 1998. Gradient-Based Learning Applied to Document Recognition. http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+3. Simonyan and Zisserman, 2015. Very Deep Convolutional Networks for Large-Scale Image Recognition. https://arxiv.org/pdf/1409.1556.pdf
+4. Vaswani et al, 2017. Attention Is All You Need. https://arxiv.org/abs/1706.03762
+5. DFU_SPNet: A stacked parallel convolution layers based CNN to improve Diabetic Foot Ulcer classification https://www.sciencedirect.com/science/article/pii/S2405959521001120
+6. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale https://arxiv.org/abs/2010.11929
+
