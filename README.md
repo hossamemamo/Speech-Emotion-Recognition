@@ -25,7 +25,7 @@
 # Results  Accuracy : 66.23 %
 ![](./Assets/ParaNet%2BTransformersResult.jpg)
 
-# References so we don't get in trouble !
+# References
 
 1. Krizhevsky et al, 2017. ImageNet Classification with Deep Convolutional Neural Networks. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 2. LeCunn et al, 1998. Gradient-Based Learning Applied to Document Recognition. http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
